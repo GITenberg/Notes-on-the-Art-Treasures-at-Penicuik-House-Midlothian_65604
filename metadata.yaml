@@ -1,11 +1,16 @@
 _repo: Notes-on-the-Art-Treasures-at-Penicuik-House-Midlothian_65604
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65604-h/images/cover.jpg
 creator:
   author:
     agent_name: Gray, John M.
     gutenberg_agent_id: '53425'
     url: http://www.gutenberg.org/2009/agents/53425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65604#Notes-on-the-Art-Treasures-at-Penicuik-House-Midlothian
 gutenberg_issued: '2021-06-12'
 gutenberg_type: Text
 identifiers:
